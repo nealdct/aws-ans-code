@@ -9,7 +9,7 @@ The code used throughout the course has been zipped up and is available for down
 
 The AWS Certified Solutions Architect Associate certification is the most popular AWS certification and the most in-demand for cloud jobs. AWS Solutions Architects can earn over $150,000 p/a and your chances of getting a job will increase dramatically by getting AWS certified.
 
-In this course, you’ll learn everything you need to know to pass your AWS Certified Solutions Architect Associate exam. The course is taught in a style that includes theory lessons with lots of visualization such as architectural diagrams and animated graphics (this is not death by bullet point).
+In this course, you’ll learn everything you need to know to pass your AWS Certified Advanced Networking Specialty exam. The course is taught in a style that includes theory lessons with lots of visualization such as architectural diagrams and animated graphics (this is not death by bullet point).
 
 After the theory lessons you’ll get to put your knowledge into practical use with hands-on lessons that teach you how to use AWS and complete exercises that reflect real-world situations. Learning by doing is the best way to ensure you build practical skills and increases knowledge retention.
 
