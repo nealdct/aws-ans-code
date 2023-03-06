@@ -1,4 +1,4 @@
-# AWS Certified Advanced Networking Specialty ANS-C00 + ANS-C01 Course Code
+# AWS Certified Advanced Networking Specialty ANS-C01 Course Code
 *By [Digital Cloud Training](https://digitalcloud.training/) - Course Author Neal Davis*
 
 ## How to Use the Course Code
@@ -14,7 +14,7 @@ In this course, you’ll learn everything you need to know to pass your AWS Cert
 After the theory lessons you’ll get to put your knowledge into practical use with hands-on lessons that teach you how to use AWS and complete exercises that reflect real-world situations. Learning by doing is the best way to ensure you build practical skills and increases knowledge retention.
 
 The course includes the following features to ensure you are well prepared for the exam:
-- Coverage of the latest exam topics for the ANS-C00 + ANS-C01
+- Coverage of the latest exam topics for the ANS-C01
 - Hands-on lessons using the new AWS Management Console
 - Separate theory lessons with amazing architectural diagrams
 - Exam cram lessons summarizing key knowledge
